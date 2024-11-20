@@ -10,8 +10,8 @@ Welcome to the Omnifood project! This is a simple, responsive food delivery webs
 - **Quick Links**: Links to important sections of the website such as account creation, company information, and resources.
 
 ## key skills used in the project
-- **HTML
-- **CSS
-- **JS
+- HTML
+- CSS
+- JS
 
 - You can see the demonstration by clicking <a href="https://altamash-omnifood.netlify.app/" target="_blank">HERE</a>.
