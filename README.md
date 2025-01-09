@@ -18,5 +18,3 @@ You can see the DEMO <a href="https://omnifood-altamash.netlify.app/" target="_b
 - HTML
 - CSS
 - JS
-
-- You can see the demonstration by clicking <a href="https://altamash-omnifood.netlify.app/" target="_blank">HERE</a>.
